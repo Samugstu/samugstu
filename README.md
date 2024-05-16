@@ -4,7 +4,7 @@ Olá, sou Samuel Souza
 - 🔭 Hoje Trabalho com Front-End
 - 🌱 Estudando React e TypeScript
 - 💬 Pergunte-me sobre HTML, CSS, JavaScript ...
-- 📫 contacte-me no email: samuelsouza0225@gmail.com
+- 📫 Contacte-me no email: samuelsouza0225@gmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">

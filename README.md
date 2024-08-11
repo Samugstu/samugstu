@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
 
-  <div style="background: #333; color: white; padding: 10px; width: 100%; border-radius: 10px; margin-bottom: 10px;">
+  <div style="background-color: #333; color: white; padding: 10px; width: 100%; border-radius: 10px; margin-bottom: 10px;">
     <h3>3º Módulo</h3>
     <p>Desenvolvimento de Sistemas</p>
     <img src="https://www.etec.sp.gov.br/images/logo.png" alt="Etec" style="width: 50px;">

@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td align="center" width="100px">
-      <img height=100% width=100% alt="Warpnet" src="https://www.spacex.com/static/images/share.jpg"/>
+      <img height=100% width=100% alt="Bilhete Único Digital" src="https://github.com/user-attachments/assets/46e47f44-7873-41ec-9972-56f258215896"/>
     </td>
     <td>
       <strong>Front-End e Designer</strong> <br>
@@ -38,7 +38,7 @@
   </tr>
   <tr>
     <td align="center" width="100px">
-      <img height=100% width=100% alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>
+      <img height=100% width=100% alt="Sistema de Senha " src="https://github.com/user-attachments/assets/bbfd6e2f-bcc0-49c5-a292-13a90045d820"/>
     </td>
     <td>
       <strong>Front-End e Designer</strong> <br>
